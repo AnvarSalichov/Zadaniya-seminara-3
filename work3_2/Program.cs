@@ -25,4 +25,4 @@ Console.WriteLine("______________________");
 // формула AB = √(xb - xa)2 + (yb - ya)2 + (zb - za)2
 double result = Math.Sqrt (Math.Pow(x2-x1,2) + Math.Pow(y2-y1,2)+Math.Pow(z2-z1,2));
 	
-Console.WriteLine ("Расстояние между точками = "+result);
+Console.WriteLine ("Расстояние между данными точками = "+result);
